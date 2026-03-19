@@ -35,7 +35,7 @@ export const getCategoies = async (
   }
 };
 
-export const getCaretgoryById = async (
+export const getCategoryById = async (
   req: Request,
   res: Response,
 ): Promise<void> => {
